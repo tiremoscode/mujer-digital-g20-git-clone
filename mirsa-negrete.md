@@ -1,3 +1,3 @@
-Nombre: **Mirsa Negrete Ordóñez**
-Correo: *tanitnegrete@gmail.com*
-Ciudad: *Ciudad de México*
+1. Nombre: **Mirsa Negrete Ordóñez**
+2. Correo: *tanitnegrete@gmail.com*
+3. Ciudad: *Ciudad de México*
