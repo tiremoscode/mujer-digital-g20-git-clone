@@ -14,7 +14,7 @@
 
 (🏜️Mi corazón se encuentra en Sonora que es mi tierra natal💖)
 
-**Repostera 🍰**
+**Repostería 🍰**
 
 **Cat🐱Lover**
 
