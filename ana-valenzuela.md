@@ -5,7 +5,7 @@
 </p>
 
 
-<h1> Hola, mi nombre es Ana Cristina Valenzuela Villalobos </h1>
+<h1 align= "center"> Hola, mi nombre es Ana Cristina Valenzuela Villalobos </h1>
 
 
 **04/03/1994♓**
